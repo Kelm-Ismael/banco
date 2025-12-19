@@ -2,6 +2,6 @@
 {
     public class banco
     {
-
+        private banco() {}
     }
 }

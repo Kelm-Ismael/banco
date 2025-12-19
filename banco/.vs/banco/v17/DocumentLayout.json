@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Programacion_2025\\pg2-s25e0205-banco-Kelm-Ismael\\banco\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{136DD81D-BE3E-4493-97E5-12B12985252C}|Demo\\Demo.csproj|c:\\programacion_2025\\pg2-s25e0205-banco-kelm-ismael\\banco\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{136DD81D-BE3E-4493-97E5-12B12985252C}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE20DA40-BA54-456C-A8AA-D49358975C6E}|Entidades\\Entidades.csproj|c:\\programacion_2025\\pg2-s25e0205-banco-kelm-ismael\\banco\\entidades\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE20DA40-BA54-456C-A8AA-D49358975C6E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136DD81D-BE3E-4493-97E5-12B12985252C}|Demo\\Demo.csproj|c:\\programacion_2025\\pg2-s25e0205-banco-kelm-ismael\\banco\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136DD81D-BE3E-4493-97E5-12B12985252C}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "banco.cs",
               "DocumentMoniker": "C:\\Programacion_2025\\pg2-s25e0205-banco-Kelm-Ismael\\banco\\Entidades\\banco.cs",
               "RelativeDocumentMoniker": "Entidades\\banco.cs",
@@ -55,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programacion_2025\\pg2-s25e0205-banco-Kelm-Ismael\\banco\\Demo\\Program.cs",
               "RelativeDocumentMoniker": "Demo\\Program.cs",
               "ToolTip": "C:\\Programacion_2025\\pg2-s25e0205-banco-Kelm-Ismael\\banco\\Demo\\Program.cs",
               "RelativeToolTip": "Demo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-19T03:06:59.03Z",
               "EditorCaption": ""
