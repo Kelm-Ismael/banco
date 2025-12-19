@@ -1,0 +1,14 @@
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\bin\Debug\net9.0\Demo.exe
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\bin\Debug\net9.0\Demo.deps.json
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\bin\Debug\net9.0\Demo.runtimeconfig.json
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\bin\Debug\net9.0\Demo.dll
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\bin\Debug\net9.0\Demo.pdb
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\obj\Debug\net9.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\obj\Debug\net9.0\Demo.AssemblyInfoInputs.cache
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\obj\Debug\net9.0\Demo.AssemblyInfo.cs
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\obj\Debug\net9.0\Demo.csproj.CoreCompileInputs.cache
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\obj\Debug\net9.0\Demo.dll
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\obj\Debug\net9.0\refint\Demo.dll
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\obj\Debug\net9.0\Demo.pdb
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\obj\Debug\net9.0\Demo.genruntimeconfig.cache
+C:\Programacion_2025\pg2-s25e0205-banco-Kelm-Ismael\banco\Demo\obj\Debug\net9.0\ref\Demo.dll
